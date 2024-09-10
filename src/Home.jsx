@@ -39,6 +39,7 @@ const Home = () => {
     }
 
 
+    // Old way 
     // let img_1 = `${process.env.PUBLIC_URL}/images/1.png`;
     // let img_2 = `${process.env.PUBLIC_URL}/images/2.png`;
     // let img_3 = `${process.env.PUBLIC_URL}/images/3.png`;
